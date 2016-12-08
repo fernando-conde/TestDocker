@@ -1,4 +1,8 @@
 version: '2.0'
 services:
   nginx:
-    build: ./nginx
+    image: nginx:latest
+    volumes:
+      - ../source:/usr/share/nginx/html
+    ports:
+      - "80:80"

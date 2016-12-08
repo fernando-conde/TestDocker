@@ -1,3 +1,3 @@
 # DEV
-- docker build -t testDocker-nginx-img .
-- docker run --name testDocker-nginx-app -d -p 80:80 testDocker-nginx-img
+- docker build -t img-nginx-testDocker .
+- docker run --name app-nginx-testDocker -d -p 80:80 img-nginx-testDocker

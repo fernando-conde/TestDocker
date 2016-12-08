@@ -146,7 +146,6 @@ docker-compose.yaml
 - version: utiliser la dernière 2.1
     - Normes d'écriture
         - -> 2 ajouter services + indentation 
-   
 
 
     version: '2'

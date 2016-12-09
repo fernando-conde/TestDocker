@@ -7,5 +7,5 @@ branches:
 before_script:
   - composer install
 script:
-  - vendor/bin/atoum
+  - vendor/bin/atoum -d tests/units
   - vendor/bin/behat

@@ -1,9 +1,7 @@
 <?php
-declare(strict_types=1);
+namespace source\docker;
 
-namespace test;
-
-class Docker
+class Start
 {
     /**
      * @param int $value

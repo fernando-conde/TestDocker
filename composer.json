@@ -1,6 +1,7 @@
 {
     "require-dev": {
         "atoum/atoum": "^2.8",
-        "atoum/stubs": "*"
+        "atoum/stubs": "*",
+        "behat/behat": "^3.2"
     }
 }

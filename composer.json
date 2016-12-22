@@ -1,9 +1,11 @@
 {
-    "require-dev": {
-        "atoum/atoum": "^2.8",
-        "atoum/stubs": "*",
-        "ext-mbstring": "*",
-        "behat/behat": "^3.2",
-        "heroku/heroku-buildpack-php": "*"
-    }
+  "require": {
+     "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "atoum/atoum": "^2.8",
+    "atoum/stubs": "*",
+    "behat/behat": "^3.2",
+    "heroku/heroku-buildpack-php": "*"
+  }
 }

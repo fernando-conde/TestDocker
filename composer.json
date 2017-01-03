@@ -1,7 +1,4 @@
 {
-  "require":{
-    "ext-mbstring": "*"
-  },
   "require-dev": {
     "atoum/atoum": "^2.8",
     "atoum/stubs": "*",

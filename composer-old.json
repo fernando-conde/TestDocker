@@ -1,0 +1,20 @@
+{
+  "authors":
+    [
+      {
+        "name": "Fernando CONDE",
+        "email": "fconde@idalgo.fr",
+        "homepage": "http://www.idalgo.fr",
+        "role": "Admin"
+      }
+    ],
+  "support":
+    {
+      "email": "support@idalgo.fr"
+    },
+  "require-dev": {
+    "atoum/atoum": "^2.8",
+    "atoum/stubs": "*",
+    "behat/behat": "^3.2"
+  }
+}

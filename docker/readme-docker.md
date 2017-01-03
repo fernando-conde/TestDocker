@@ -143,6 +143,11 @@ docker-compose.yaml
     -f override surcharche de fichiers de configuration yaml (production)
 - docker-compose stop
 
+
+- docker-compose build web
+- docker-compose up --no-deps -d web
+
+
 - version: utiliser la dernière 2.1
     - Normes d'écriture
         - -> 2 ajouter services + indentation 

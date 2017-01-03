@@ -1,10 +1,10 @@
 {
-    "require":{
-      "ext-mbstring": "*"
-    },
-    "require-dev": {
-        "atoum/atoum": "^2.8",
-        "atoum/stubs": "*",
-        "behat/behat": "^3.2"
-    }
+  "require":{
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "atoum/atoum": "^2.8",
+    "atoum/stubs": "*",
+    "behat/behat": "^3.2"
+  }
 }

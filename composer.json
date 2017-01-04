@@ -11,5 +11,10 @@
   "support":
     {
       "email": "support@idalgo.fr"
-    }
+    },
+  "require-dev": {
+    "atoum/atoum": "^2.8",
+    "atoum/stubs": "*",
+    "behat/behat": "^3.2"
+  }
 }

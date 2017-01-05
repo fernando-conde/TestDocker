@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-echo '<h1>iDalgo Test Docker - Start 3</h1>';
+echo '<h1>iDalgo Test Docker - Start 4</h1>';
 
 include 'docker/Start.php';
 
